@@ -1,0 +1,7 @@
+{
+  "source": "Castro Valley Tenant Details.csv",
+  "source_modified_local": "2026-10-15 14:11:26 +07",
+  "sha256": "b015c33f239b68b65fe3bd9cbca1f78068693cf5ad71ce0d539b426d008a9f5f",
+  "rows": 44,
+  "derived_view": "Schematic only; footprints, heights and positions are illustrative. Not reconciled to a rent roll."
+}
