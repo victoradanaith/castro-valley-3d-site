@@ -1,7 +1,5 @@
-# Castro Valley 3D — public website
+# Castro Valley Map and Tenants
 
-Deployment-only files for the public information viewer. The original development repository remains private.
+The default site restores the original map-and-tenant-directory artifact. The original embedded OpenStreetMap image, pin coordinates, layout, 44 occupant records, search, property filters, column sorting and TSV copy are preserved.
 
-Four schematic properties and 44 listed occupants. Buildings, heights and positions are illustrative, not surveyed. Tenant data is not reconciled to a rent roll; missing values and source notes are retained.
-
-Publication of this website and its occupant data was explicitly authorized by the owner. No original development history, unrelated documents, sessions or credentials are included.
+Pin positions are approximate and placed by hand. Data is not reconciled to a rent roll. Confirm with Craig or Charon before investor use. The original 3D publication remains recoverable in Git history. The development repository remains private.
